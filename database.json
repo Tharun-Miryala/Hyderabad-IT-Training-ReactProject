@@ -1,0 +1,320 @@
+{
+  "batches": [
+    {
+      "id": 1,
+      "course": "UI/UX Designing",
+      "date": "2024-05-11",
+      "timings": "9AM to 10AM",
+      "duration": "90",
+      "trainer": "Sakthivel",
+      "register": "Register Now"
+    },
+    {
+      "id": 2,
+      "course": "MERN Stack Development",
+      "date": "2024-02-15",
+      "timings": "5PM to 6PM",
+      "duration": "90",
+      "trainer": "chandrashekar",
+      "register": "Register Now"
+    },
+    {
+      "id": 3,
+      "course": "Python Fullstack Development",
+      "date": "2024-01-29",
+      "timings": "11AM to 12PM",
+      "duration": "90",
+      "trainer": "Sudheer",
+      "register": "Register Now"
+    },
+    {
+      "id": 4,
+      "course": "UI Designing",
+      "date": "2024-02-01",
+      "timings": "5PM to 6PM",
+      "duration": "70",
+      "trainer": "Bhargav",
+      "register": "Register Now"
+    },
+    {
+      "id": 5,
+      "course": "Python with DJango",
+      "date": "2024-01-29",
+      "timings": "11AM to 12AM",
+      "duration": "45",
+      "trainer": "Sudheer",
+      "register": "Register Now"
+    },
+    {
+      "id": 6,
+      "course": "AWS",
+      "date": "2024-05-31",
+      "timings": "6pm to 7 pm",
+      "duration": "90",
+      "trainer": "Sudheer",
+      "register": "Register Now"
+    },
+    {
+      "id": 7,
+      "course": "Cloud Computing",
+      "date": "2023-05-20",
+      "timings": "12PM to 3PM",
+      "duration": "120",
+      "trainer": "Bhanu Prasad",
+      "register": "Register Now"
+    },
+    {
+      "id": 8,
+      "course": "DevOps",
+      "date": "2024-05-14",
+      "timings": "3PM to 6PM",
+      "duration": "180",
+      "trainer": "Bhargav",
+      "register": "Register Now"
+    },
+    {
+      "id": 9,
+      "course": "Prompt Engineering",
+      "date": "2024-05-21",
+      "timings": "3PM to 6PM",
+      "duration": "90",
+      "trainer": "Rahul",
+      "register": "Register Now"
+    },
+    {
+      "id": 10,
+      "course": "Quality Assurance (QA)",
+      "date": "2024-05-20",
+      "timings": "9:30am to 12:30pm",
+      "duration": "100",
+      "trainer": "Bhanu",
+      "register": "Register Now"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": 1,
+      "name": "Pramod",
+      "email": "pramod@gmail.com",
+      "mobile": "1245896534",
+      "course": "UI/UX Designing",
+      "message": "Hello Bhargav! I'm interested in your course UI development"
+    },
+    {
+      "id": 2,
+      "name": "Ramya",
+      "email": "ramya.p4321@gmail.com",
+      "mobile": "6457985234",
+      "course": "mern",
+      "message": "Sir, I had a problem while I am opening the Website"
+    },
+    {
+      "id": 3,
+      "name": "Venkat",
+      "email": "asd@sdg",
+      "course": "MERN Full Stack",
+      "mobile": "7845698512",
+      "message": "I had a problem with the software in my laptop, while I'm started the software was not woorking"
+    },
+    {
+      "id": 4,
+      "name": "Tharun",
+      "email": "tharunm@gmail.com",
+      "course": "UI/UX Designing",
+      "mobile": "9568745896",
+      "message": "I had problem with the course in my laptop."
+    }
+  ],
+  "registeredcourse": [
+    {
+      "id": 1,
+      "name": "Pramod",
+      "email": "pramod@gmail.com",
+      "mobile": "1245896534",
+      "status": "Student",
+      "gender": "Male",
+      "course": "UI/UX Designing",
+      "payment": "Online payment successfull"
+    },
+    {
+      "id": 2,
+      "name": "Ramya",
+      "email": "ramya.p4321@gmail.com",
+      "mobile": "6457985234",
+      "status": "Employee",
+      "gender": "Female",
+      "course": "mern",
+      "payment": "Cash payment Pending"
+    },
+    {
+      "id": 3,
+      "name": "Prasanna",
+      "email": "prasanna@gmail.com",
+      "mobile": "9564785652",
+      "status": "Student",
+      "gender": "Female",
+      "course": "AWS",
+      "payment": "Online payment successfull"
+    },
+    {
+      "id": 4,
+      "name": "Staci Bortoli",
+      "email": "staci@gmail.com",
+      "mobile": "6598745895",
+      "status": "Employee",
+      "gender": "Female",
+      "course": "Python with DJango",
+      "payment": "Cash payment Pending"
+    },
+    {
+      "id": 5,
+      "name": "Venkat",
+      "email": "venkat@gmail.com",
+      "mobile": "9654785623",
+      "status": "Employee",
+      "gender": "Male",
+      "course": "AWS",
+      "payment": "Online payment successfull"
+    },
+    {
+      "id": 6,
+      "name": "Bhanu",
+      "email": "bhanu@gmail.com",
+      "mobile": "64579856253",
+      "status": "Student",
+      "gender": "Male",
+      "course": "Python Fullstack Development",
+      "payment": "Online payment successfull"
+    },
+    {
+      "id": 7,
+      "name": "Ofella Linacre",
+      "email": "olinacre3@gmail.com",
+      "mobile": "1234567859",
+      "status": "Student",
+      "gender": "Female",
+      "course": "Python Fullstack Development",
+      "payment": "Online payment successfull"
+    },
+    {
+      "id": 8,
+      "name": "Mikel Jolliffe",
+      "email": "mjolliffe4@gmail.com",
+      "mobile": "9657485621",
+      "status": "Student",
+      "gender": "Male",
+      "course": "Python Fullstack Development",
+      "payment": "Online payment successfull"
+    },
+    {
+      "id": 9,
+      "name": "Suresh",
+      "email": "suresh@gmail.com",
+      "mobile": "78956485645",
+      "status": "Employee",
+      "gender": "Male",
+      "course": "DevOps",
+      "payment": "Cash payment Pending"
+    },
+    {
+      "id": 10,
+      "name": "Rahul",
+      "email": "rahuk65.p@gmail.com",
+      "mobile": "7895648567",
+      "status": "Student",
+      "gender": "Male",
+      "course": "Web Designing",
+      "payment": "Online payment successfull"
+    },
+    {
+      "id": 11,
+      "name": "Husain Bryning",
+      "email": "hbryning9@gmail.com",
+      "mobile": "9856478545",
+      "status": "Student",
+      "gender": "Male",
+      "course": "Prompt Engineering",
+      "payment": "Online payment successfull"
+    },
+    {
+      "id": 12,
+      "name": "Braden Yellowlee",
+      "email": "byellowleea",
+      "mobile": "9658745865",
+      "status": "Student",
+      "gender": "Male",
+      "course": "Python with DJango",
+      "payment": "Online payment successfull"
+    },
+    {
+      "id": 13,
+      "name": "Hobard Dillingham",
+      "email": "hdillinghamd@gmail.com",
+      "mobile": "9658745412",
+      "status": "Student",
+      "gender": "Male",
+      "course": "Prompt Engineering",
+      "payment": "Online payment successfull"
+    },
+    {
+      "id": 14,
+      "name": "Coop MacLure",
+      "email": "cmacluree@gmail.com",
+      "mobile": "6598547854",
+      "status": "Student",
+      "gender": "Male",
+      "course": "Web Designing",
+      "payment": "Cash payment Pending"
+    },
+    {
+      "id": 15,
+      "name": "Bettine Bauduccio",
+      "email": "bbauducciof@gmail.com",
+      "mobile": "65923654785",
+      "status": "Student",
+      "gender": "Female",
+      "course": "asf",
+      "payment": "Online payment successfull"
+    },
+    {
+      "id": 16,
+      "name": "Andrea Efford",
+      "email": "andrea@gmail.com",
+      "mobile": "965895648",
+      "status": "Student",
+      "gender": "Male",
+      "course": "Python with DJango",
+      "payment": "Cash payment Pending"
+    },
+    {
+      "id": 17,
+      "name": "Yash",
+      "email": "yash@gmail.com",
+      "mobile": "9654785465",
+      "status": "Student",
+      "gender": "Male",
+      "course": "Cloud Computing",
+      "payment": "Cash payment Pending"
+    },
+    {
+      "id": 19,
+      "name": "Marice Ambrosoli",
+      "email": "mambrosolii@gmail.com",
+      "mobile": "6598547856",
+      "status": "Student",
+      "gender": "Female",
+      "course": "Python with DJango",
+      "payment": "Online payment successfull"
+    },
+    {
+      "id": 21,
+      "name": "K Shiva",
+      "email": "shiva.k129@gmail.com",
+      "mobile": "9658745862",
+      "status": "Employee",
+      "gender": "Male",
+      "course": "UI/UX Designing",
+      "payment": "Cash payment Pending"
+    }
+  ]
+}

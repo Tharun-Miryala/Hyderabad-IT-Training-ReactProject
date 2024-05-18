@@ -1,0 +1,94 @@
+.active:not(#image) {
+    color: yellowgreen;
+}
+
+nav ul li .nav-link{
+    color: #666777;
+    font-weight: 500;
+    position: relative;
+}
+
+nav ul li .nav-link:hover, nav ul li .nav-link:active {
+    color: black;
+}
+
+nav ul li .nav-link::before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 2px;
+    background-color: #009970;
+    visibility: hidden;
+    transition: 0.3s ease-in-out;
+}
+nav ul li .nav-link:hover::before, nav ul li .nav-link:active::before{
+    width: 100%;
+    visibility: visible;
+}
+
+.navbar-toggler {
+    border: none;
+}
+.navbar-toggler:focus, .btn-close:focus {
+    box-shadow: none;
+    outline: none;
+}
+
+#aboutHIT h1, p{
+    text-align: justify;
+}
+
+#aboutHIT form{
+    box-shadow: 1px 2px 3px 5px grey;
+}
+
+#aboutHIT form textarea{
+    margin-left: auto;
+}
+
+#course figure img {
+    width: 100%;
+}
+
+#course figure p{
+    text-align: center;
+    padding: 15px;
+}
+
+figure{
+    margin: 15px 10px;
+}
+
+figure:hover{
+    cursor: pointer;
+    box-shadow: 0px 12px 30px 0px rgb(38, 37, 37);
+    transform: scale(1.1,1.1);
+    transition: all 800ms;
+}
+
+#foot h4{
+    text-align: left;
+}
+
+#foot li{
+    text-align: left;
+}
+#foot li a{
+    text-decoration: none;
+    color: white;
+}
+
+#foot li a:hover{
+    color: red;
+}
+
+#contactUsNavline {
+    border-right: 1px solid grey;
+}
+
+#adminnavline {
+    border-right: 1px solid grey !important;
+}
